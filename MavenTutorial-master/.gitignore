@@ -1,0 +1,4 @@
+.DS*
+.idea/
+mavendemo.iml
+target/
